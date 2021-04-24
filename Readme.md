@@ -1,14 +1,5 @@
 # EyeAI   <img src="Images/logo_final.png" alt="Logo" width="100" height="70" />
 
-
-## Other information
-
-- [Resize image in the wiki of github using markdown](http://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown)
-- [how to change image size markdown](http://stackoverflow.com/questions/14675913/how-to-change-image-size-markdown)
-
-## Retniopathy detection 
-
-
 AIM - Deploying deep learning models for opthalmology diagnosis
 
 [![Get it on Google Play](https://lisk.io/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](https://play.google.com/store/apps/)
