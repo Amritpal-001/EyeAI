@@ -1,4 +1,4 @@
-# EyeAI   ![Logo](Images/logo_final.png)
+# EyeAI   ![Logo](Images/logo_final.png = 250x250)
 
 ## Retniopathy detection 
 
