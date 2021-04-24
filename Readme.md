@@ -47,7 +47,7 @@ Coverage of Android devices - more than 98%
 
 ## Model training results
 | Accuracy                   |    Confusion matrix | 
-| :---:                     |     :---:      |          :---: |          :---: |
+| :---:                     |     :---:      |
 | <img src="Images/accuracy.png" alt="CT_scan" height=350/> | <img src="Images/cm.png" alt="Xrays" height=350/>   |
 
 | Class                    | Data size | Accuracy |
