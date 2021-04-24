@@ -13,14 +13,16 @@ AIM - Deploying deep learning models for opthalmology diagnosis
 - [x] Android app framework to deploy model
 - [x] On device model prediction
 - [x] Capture image / Upload image from device
-- [ ] Annonymization of files before sending to model
-- [ ] Image augmentation before making prediction
 - [x] Image testing before prediction(Is it a Retina image or not?)
+- [x] Report False predictions by model
+- [ ] Add "Share AI's Report" button
+    - [x] Without images 
+    - [ ] With images 
+- [x] Suggestions column to improve columns
 - [ ] Prediction probabilities
 - [ ] Choosing model function - Multiple models for different diseases
-- [ ] Report False predictions by model
-- [ ] Add "Share AI's Report" button
-- [ ] Suggestions column
+- [ ] Annonymization of files before sending to model
+- [ ] Image augmentation before making prediction
 
 
 Frameworks used - 
