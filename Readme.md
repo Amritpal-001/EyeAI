@@ -34,13 +34,13 @@ Coverage of Android devices - more than 98%
 
 ## Screenshots
 | Normal                  |  Diabetic retinopathy | Maculopathy | Retinitis pigmentosa |
-| :---                     |     :---:      |          ---: |          ---: |
-| <img src="Images/Screen003.png" alt="Normal" height=350/> | <img src="Images/Correct_diagnosis002.jpg" alt="Maculopathy" height=350/>   |   <img src="Images/Correct_diagnosis001.jpg" alt="Diabetic retinopathy" height=350 />  |   <img src="Images/Correct_diagnosis004.jpg" alt="Retinitis pigmentosa" height=350 />  |
+| :---:                     |     :---:      |          :---: |          :---: |
+| <img src="Images/Correct_diagnosis003.jpg" alt="Normal" height=350/> | <img src="Images/Correct_diagnosis002.jpg" alt="Maculopathy" height=350/>   |   <img src="Images/Correct_diagnosis001.jpg" alt="Diabetic retinopathy" height=350 />  |   <img src="Images/Correct_diagnosis004.jpg" alt="Retinitis pigmentosa" height=350 />  |
 
 
 ## False image type prediction
-| CT scans                  |  Xrays | Random faces | Screenshots |
-| :---                     |     :---:      |          ---: |          ---: |
+| CT scans                   |  Xrays | Random faces | Screenshots |
+| :---:                     |     :---:      |          :---: |          :---: |
 | <img src="Images/False_prediction_detection003.jpg" alt="CT_scan" height=350/> | <img src="Images/False_prediction_xray.jpg" alt="Xrays" height=350/>   |   <img src="Images/False_prediction_detection006.jpg" alt="Random faces" height=350 />  |   <img src="Images/False_prediction_detection003.jpg" alt="Screenshots" height=350 />  |
 
 
