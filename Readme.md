@@ -47,9 +47,9 @@ Coverage of Android devices - more than 98%
 | <img src="Images/False_prediction_detection003.jpg" alt="CT_scan" height=350/> | <img src="Images/False_prediction_xray.jpg" alt="Xrays" height=350/>   |   <img src="Images/False_prediction_detection006.jpg" alt="Random faces" height=350 />  |   <img src="Images/False_prediction_detection003.jpg" alt="Screenshots" height=350 />  |
 
 ## Model training results
-| Accuracy                   |    Confusion matrix | 
-| :---:                     |     :---:      |
-| <img src="Images/accuracy.png" alt="CT_scan" height=350/> | <img src="Images/cm.png" alt="Xrays" height=350/>   |
+|            Confusion matrix | 
+|                      :---:      |
+|  <img src="Images/cm.png" alt="Xrays" height=350/>   |
 
 | Class                    | Data size | Accuracy |
 | :---                     | :---:   | ---: |
