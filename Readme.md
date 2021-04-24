@@ -1,9 +1,4 @@
-# EyeAI   ![Logo](Images/logo_final.png | = 250x250)
-
-
-## Image source
-
-<img src="Images/Correct_diagnosis003.jpg" alt="Normal" width="200" height="400" />
+# EyeAI   <img src="Images/logo_final.jpg" alt="Normal" width="150" height="150" />
 
 
 ## Other information
