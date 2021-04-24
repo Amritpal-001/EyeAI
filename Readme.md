@@ -1,4 +1,4 @@
-# EyeAI   <img src="Images/logo_final.png" alt="Logo" width="150" height="150" />
+# EyeAI   <img src="Images/logo_final.png" alt="Logo" width="150" height="100" />
 
 
 ## Other information
