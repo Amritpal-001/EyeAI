@@ -18,7 +18,7 @@ AIM - Deploying deep learning models for opthalmology diagnosis
 - [ ] Add "Share AI's Report" button
     - [x] Without images 
     - [ ] With images 
-- [x] Suggestions column to improve columns
+- [x] Suggestions to improve app button 
 - [ ] Prediction probabilities
 - [ ] Choosing model function - Multiple models for different diseases
 - [ ] Annonymization of files before sending to model
