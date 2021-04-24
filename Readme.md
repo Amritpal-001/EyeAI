@@ -1,4 +1,5 @@
-# EyeAI   logo_final.png
+# EyeAI   ![Logo](Images/logo_final.png)
+
 ## Retniopathy detection 
 
 
