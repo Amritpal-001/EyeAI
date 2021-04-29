@@ -2,7 +2,7 @@
 
 AIM - Deploying deep learning models for opthalmology diagnosis
 
-[![Get it on Google Play](https://lisk.io/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](https://play.google.com/store/apps/)
+[![Get it on Google Play](https://lisk.io/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](https://play.google.com/store/apps/details?id=com.amritpal.eyeai)
 
 
 ## Goals - 
