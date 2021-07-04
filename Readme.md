@@ -1,6 +1,6 @@
 # EyeAI   <img src="Images/logo_final.png" alt="Logo" width="100" height="70" />
 
-AIM - Deploying deep learning models for opthalmology diagnosis
+AIM -  Training, deploying deep learning models for ophthalmology diagnosis on android app
 
 [![Get it on Google Play](https://lisk.io/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](https://play.google.com/store/apps/details?id=com.amritpal.eyeai)
 
