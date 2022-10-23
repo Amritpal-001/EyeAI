@@ -43,6 +43,13 @@ Coverage of Android devices - more than 98%
 | :---:                     |     :---:      |          :---: |          :---: |
 | <img src="Images/False_prediction_detection003.jpg" alt="CT_scan" height=350/> | <img src="Images/False_prediction_xray.jpg" alt="Xrays" height=350/>   |   <img src="Images/False_prediction_detection006.jpg" alt="Random faces" height=350 />  |   <img src="Images/False_prediction_detection003.jpg" alt="Screenshots" height=350 />  |
 
+
+## Training
+| Training loss   |  Training accuracy | Confusion matrix |
+| :---:                     |     :---:      |          :---: |  
+| <img src="Images/loss.png" alt="Training loss" height=350/> | <img src="Images/accuracy.png" alt="Training accuracy" height=350/>   |   <img src="Images/cm.png" alt="Confusion matrix" height=350 />  |  
+
+
 ### Maybe sometime in future
 - [ ] Uploading folder of images at once
 - [ ] Cloud based interpretation on bigger/better models
